@@ -1,0 +1,18 @@
+.modal-dialog {
+    width: 900px;
+}
+span.validRequired {
+	color:red;
+	font-size:10px;
+}
+.records_content table thead{
+	background-color: mediumturquoise;
+	font-size: 12px;
+}
+
+.red {
+    border:1px solid red;
+}
+input:invalid {
+    border: 1px solid red;
+}
